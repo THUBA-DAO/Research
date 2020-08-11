@@ -8,3 +8,6 @@
 |     Conflux     |              conflux.pdf               |
 |    Algorand     |             Algorand文件夹             |
 |     Cardano     |             Cardano文件夹              |
+|       NEO       |                NEO.pdf                 |
+|      Nano       |                Nano.pdf                |
+|     Stellar     |              stellar.pdf               |
