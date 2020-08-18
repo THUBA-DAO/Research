@@ -13,5 +13,5 @@
 |     Stellar     |                         stellar.pdf                          |
 |      TRON       |                           TRON.pdf                           |
 |    Dogecoin     |  https://github.com/dogecoin/dogecoin/blob/master/README.md  |
-|     Cosmos      | https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md ，中文见https://cosmos.network/resources/whitepaper/zh-CN |
+|     Cosmos      | https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md，https://cosmos.network/resources/whitepaper/zh-CN |
 |      IOTA       |                           iota.pdf                           |
