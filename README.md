@@ -1,4 +1,4 @@
-# BATS-blockchain-resouces
+# THUBA-blockchain-resouces
 
 > 区块链相关技术资源（清华大学学生区块链协会整理）
 
