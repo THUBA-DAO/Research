@@ -25,7 +25,7 @@
 | 比特币 Bitcoin  |     [bitcoin.pdf](区块链白皮书/国外区块链项目/bitcoin.pdf)     |
 | 以太坊 Ethereum |                  [Ethereum_white_paper.pdf](区块链白皮书/国外区块链项目/Ethereum_white_paper.pdf) |
 |       EOS       |           [EOSIO](https://github.com/EOSIO/Documentation)  |
-|     Conflux     |         [conflux.pdf]((区块链白皮书/国外区块链项目/conflux.pdf) |
+|     Conflux     |         [conflux.pdf](区块链白皮书/国外区块链项目/conflux.pdf) |
 |    Algorand     |           [Algorand文件夹](区块链白皮书/国外区块链项目/Algorand) |
 |     Cardano     |                       [Cardano文件夹](区块链白皮书/国外区块链项目/Cardano)              |
 |       NEO       |                 [NEO.pdf](区块链白皮书/国外区块链项目/NEO.pdf)|
