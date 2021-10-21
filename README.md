@@ -31,7 +31,7 @@
 |       NEO       |                 [NEO.pdf](区块链白皮书/国外区块链项目/NEO.pdf)|
 |      Nano       |           [Nano.pdf](区块链白皮书/国外区块链项目/Nano.pdf)     |
 |     Stellar     |          [stellar.pdf](区块链白皮书/国外区块链项目/stellar.pdf)|
-|      TRON       |                          TRON.pdf                          |
+|      TRON       |          [TRON.pdf](区块链白皮书/国外区块链项目/TRON.pdf)      |
 |    Dogecoin     | [dogecoin](https://github.com/dogecoin/dogecoin/blob/master/README.md) |
 |     Cosmos      | [cosmos](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md) |
 |      IOTA       |          [iota.pdf](区块链白皮书/国外区块链项目/iota.pdf)     |
