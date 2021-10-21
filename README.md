@@ -22,19 +22,20 @@
 
 |     项目名      |                           白皮书                           |
 | :-------------: | :--------------------------------------------------------: |
-| 比特币 Bitcoin  |                        bitcoin.pdf                         |
-| 以太坊 Ethereum |                  Ethereum_white_paper.pdf                  |
-|       EOS       |           https://github.com/EOSIO/Documentation           |
-|     Conflux     |                        conflux.pdf                         |
-|    Algorand     |                       Algorand文件夹                       |
-|     Cardano     |                       Cardano文件夹                        |
-|       NEO       |                          NEO.pdf                           |
-|      Nano       |                          Nano.pdf                          |
-|     Stellar     |                        stellar.pdf                         |
+| 比特币 Bitcoin  |     [bitcoin.pdf](区块链白皮书/国外区块链项目/bitcoin.pdf)     |
+| 以太坊 Ethereum |                  [Ethereum_white_paper.pdf](区块链白皮书/国外区块链项目/Ethereum_white_paper.pdf) |
+|       EOS       |           [EOSIO](https://github.com/EOSIO/Documentation)  |
+|     Conflux     |         [conflux.pdf]((区块链白皮书/国外区块链项目/conflux.pdf) |
+|    Algorand     |           [Algorand文件夹](区块链白皮书/国外区块链项目/Algorand) |
+|     Cardano     |                       [Cardano文件夹](区块链白皮书/国外区块链项目/Cardano)              |
+|       NEO       |                 [NEO.pdf](区块链白皮书/国外区块链项目/NEO.pdf)|
+|      Nano       |           [Nano.pdf](区块链白皮书/国外区块链项目/Nano.pdf)     |
+|     Stellar     |          [stellar.pdf](区块链白皮书/国外区块链项目/stellar.pdf)|
 |      TRON       |                          TRON.pdf                          |
-|    Dogecoin     | https://github.com/dogecoin/dogecoin/blob/master/README.md |
-|     Cosmos      | https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md |
-|      IOTA       |                          iota.pdf                          |
+|    Dogecoin     | [dogecoin](https://github.com/dogecoin/dogecoin/blob/master/README.md) |
+|     Cosmos      | [cosmos](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md) |
+|      IOTA       |          [iota.pdf](区块链白皮书/国外区块链项目/iota.pdf)     |
+|     Dfinity     |         [dfinity-consensus.pdf](区块链白皮书/国外区块链项目/dfinity-consensus.pdf)   |
 
 ### 行业研究报告
 
